@@ -9,7 +9,7 @@ venv.bak/
 
 # Python compiled files (Junk)
 __pycache__/
-# *.py[cod]
+ *.py[cod]
 *$py.class
 
 # VS Code settings (Optional - keeps your personal settings local)
